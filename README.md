@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Lukezzi
 - 👀 I’m interested in game developement
-- 🌱 I’m currently learning stuf
+- 🌱 I’m currently learning to use Gdevelop and plan to learn C# 
 - 📫 How to reach me? friend me on discord! lukezzi_2022 is my username on Discord
 
 <!---
